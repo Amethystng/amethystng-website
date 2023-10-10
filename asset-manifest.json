@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee878614.css",
+    "main.js": "/static/js/main.dac368f7.js",
+    "static/media/standard_img.svg": "/static/media/standard_img.b734f12f20f4b57869cf2f95bba03dd7.svg",
+    "static/media/bgImg1.png": "/static/media/bgImg1.dc432381a4c4df96caf7.png",
+    "static/media/founder.svg": "/static/media/founder.37dadda5fe2766749eb2e9d1a77eb407.svg",
+    "static/media/CEO.svg": "/static/media/CEO.4f8acc35afe0eb9e2e085a54f8ad172d.svg",
+    "static/media/graphics.svg": "/static/media/graphics.ff782504a5625d0535c665ffc2925492.svg",
+    "static/media/brand.svg": "/static/media/brand.1222cb366cde77edc3e18164afa7c51b.svg",
+    "static/media/thinker.svg": "/static/media/thinker.b555fff713ba18ae0dcae6be04e46ead.svg",
+    "static/media/engineering_designs.svg": "/static/media/engineering_designs.28163cd95a40f8170cf5b041db624aa4.svg",
+    "static/media/digital_products.svg": "/static/media/digital_products.84b043ddbb380018c82656319f7f468f.svg",
+    "static/media/gemamethystLogo.svg": "/static/media/gemamethystLogo.793097a05e7ccd3571f6b5c558d100e5.svg",
+    "static/media/footer_logo.svg": "/static/media/footer_logo.3a4e0f217d58a9701e7400c37d47cbc7.svg",
+    "static/media/application_dev.svg": "/static/media/application_dev.c29e6ab80199330dbd6a9905d7010096.svg",
+    "static/media/web_dev.svg": "/static/media/web_dev.21edbbdde2e52f39457cb0e47bc58bd3.svg",
+    "static/media/Happy_customer.svg": "/static/media/Happy_customer.03677dac562d7036102bb4c792cddf99.svg",
+    "static/media/graphics_designs.svg": "/static/media/graphics_designs.40ab7ddf27aa2e1bc0cc9520cfd0c1e7.svg",
+    "static/media/online_marketing.svg": "/static/media/online_marketing.4604bce782a390d4f0c7562a057579b7.svg",
+    "static/media/staff.svg": "/static/media/staff.9937648ab1d22a7b79e896682e95cc10.svg",
+    "static/media/bulb.svg": "/static/media/bulb.f7d6b333ce9ccd0bb74508071bc5841c.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.9667369bb7755cdeab670183e934cb5a.svg",
+    "static/media/service_provided.svg": "/static/media/service_provided.f93de51465297bd9e22d0e7cb6cba71a.svg",
+    "static/media/footer_instagram.svg": "/static/media/footer_instagram.1ca2b9ebc6123513f61cbbb774037303.svg",
+    "static/media/completed.svg": "/static/media/completed.cdfd64c5b964831ae54c7faa5740ea5b.svg",
+    "static/media/Vector.svg": "/static/media/Vector.d11ea9af5074b557822fe0088ef31daf.svg",
+    "static/media/Linkedin.svg": "/static/media/Linkedin.a1657ce0f6dc8f793f31c0596e6cb4d2.svg",
+    "index.html": "/index.html",
+    "static/media/footer_twitter.svg": "/static/media/footer_twitter.b5e5cb02786c0d3343c7a9d7d1f651d9.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.d8c4f410e0fb1590f25c5893f2a92470.svg",
+    "static/media/footer_facebook.svg": "/static/media/footer_facebook.d8363e38ae5b6c3c34f1fdcea57b109f.svg",
+    "static/media/footer_telegram.svg": "/static/media/footer_telegram.991b31c1b833e1c9e1108ae1f93e898b.svg",
+    "main.ee878614.css.map": "/static/css/main.ee878614.css.map",
+    "main.dac368f7.js.map": "/static/js/main.dac368f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee878614.css",
+    "static/js/main.dac368f7.js"
+  ]
+}
